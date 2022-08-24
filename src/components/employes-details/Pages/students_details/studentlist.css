@@ -1,0 +1,7 @@
+td {
+    border: 1px solid;
+    text-align: center;
+}
+.btn.btn-danger {
+    margin-right: 10px;
+}

@@ -1,0 +1,5 @@
+.table th {
+    border-right:1px solid #bbb;
+    text-align: center;
+    background-color: #ccc;
+}

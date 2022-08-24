@@ -1,0 +1,10 @@
+@import url('../global.css');
+.foot_wrapper {
+    border-top: 1px solid #dee2e6;
+    margin-top: 20px;
+}
+.foot_wrapper span {
+  color: #6c757d;
+  display: inline-block;
+  padding: 10px;
+}

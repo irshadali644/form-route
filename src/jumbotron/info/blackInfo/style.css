@@ -1,0 +1,32 @@
+.info-black-box {
+    padding: 20px;
+    border-radius: 4px;
+    width: 48%;
+    margin-right: 20px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.info-black-box h2,
+.info-black-box p {
+    color: #fff;
+}
+.border-btn {
+    background: none;
+    border: 1px solid #f5f5f5;
+    border-radius: 5px;
+    padding: 10px 15px;
+    color: #fff;
+}
+.bgBlack {
+    background-color: black;
+}
+.bgRed {
+    background-color: red;
+}
+.bgGreen {
+    background-color: green;
+}
+.bgYellow {
+    background-color: yellowgreen;
+}

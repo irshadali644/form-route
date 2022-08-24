@@ -1,0 +1,12 @@
+.table_data th {
+  border-right: 1px solid #000;
+  text-align: center;
+}
+.updated_from_wrapper input {
+ margin-right:10px
+}
+.updated_from_wrapper input {
+  background: none;
+  box-shadow: none;
+  border: 1px solid #6c757d;
+}

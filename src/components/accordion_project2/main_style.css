@@ -1,0 +1,41 @@
+.card {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+.accordion_wrapper .left {
+ width: 400px;
+ margin-right: 40px;
+}
+.accordion_wrapper .left h2{
+    font-size: 23px;
+}
+.accordion_wrapper .right {
+    width: 800px;
+}
+.accodion_dtls {
+    box-shadow: 0 5px 15px rgb(0 0 0 / 10%);
+    padding: 15px;
+}
+.accodion_dtls h2{
+    font-size: 18px;
+}
+.accodion_dtls .content {
+    font-size: 12px;
+    letter-spacing: 0.5px;
+    margin-top: 30px;
+}
+.accodion_dtls .btn {
+    width: 30px;
+    height: 30px;
+    background: #ccc;
+    padding: 0;
+    line-height: 20px;
+    border-radius: 50%;
+    font-size: 19px;
+    font-weight: 400;
+}
+.hide {
+    display: none;
+}

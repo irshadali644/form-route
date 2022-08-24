@@ -1,0 +1,20 @@
+@import url('../global.css');
+.headerwrapper {
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.headerwrapper .text-dark  {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #212529!important;
+  
+}
+.headerwrapper .text-dark span {
+    margin-left: 10px;
+    font-size: 25px;
+    font-weight:400;
+}
+
+

@@ -1,0 +1,10 @@
+.tab_list {
+    display: flex;
+    padding: 0;
+}
+.tab_list li {
+    list-style: none;
+    border: 1px solid #000;
+    width: 33.33%;
+    text-align: center;
+}

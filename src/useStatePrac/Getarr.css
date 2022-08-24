@@ -1,0 +1,9 @@
+.form-container {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+}

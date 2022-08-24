@@ -1,0 +1,45 @@
+.mooktails-list {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.card {
+    box-shadow: 2px 5px 3px 0px rgba(0,0,0,0.5);
+    background-color: #fff;
+    width: 30%;
+   
+}
+.img_wrapper {
+    width: 200px;
+    height: 200px;
+    margin-right:20px;
+}
+.img_wrapper img{
+    width: 100%;
+    height: 100%;
+}
+.card_cnt {
+    padding: 10px;
+    background-color: #ffffff;
+}
+.card_cnt h2{
+    font-size: 22px;
+    color: #262626;
+    margin: 0;
+}
+.card_cnt p {
+    font-size: 16px;
+    color: #262626;
+    margin: 0;
+}
+.card_cnt button {
+    background-color: green;
+    border: 0;
+    padding:6px 10px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+
+

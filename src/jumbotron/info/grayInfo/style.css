@@ -1,0 +1,15 @@
+.info-gray-box {
+    padding: 20px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 50%;
+    margin-bottom: 10px;
+}
+.info-gray-box {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+}
+.border-btn.gray {
+    color: #6c757d;
+    border: 1px solid #6c757d;
+}

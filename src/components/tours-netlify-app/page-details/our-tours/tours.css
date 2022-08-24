@@ -1,0 +1,45 @@
+.our_tours_wrapper{
+    max-width: 600px;
+    margin:40px auto;
+}
+.our_tours_wrapper h2 {
+    position: relative;
+    width: 150px;
+    margin: 0 auto 20px;
+}
+.our_tours_wrapper h2::after {
+    position: absolute;
+    bottom: 0;
+    content: "";
+    left: 0;
+    right: 0;
+    background-color: #49a6e9;
+    width: 80%;
+    height:5px;
+    top: 50px;
+    margin: auto;
+}
+.tour-info_wrapper h3, span{
+    font-size: 16px;
+}
+p {
+    font-size: 14px;
+    line-height: 25px;
+}
+.readmore_btn  {
+    background: none;
+    color: #49a6e9;
+    font-size: 13px
+}
+.delete-btn  {
+    display: block;
+    width: 200px;
+    margin: 1rem auto 0;
+    color: #bb2525;
+    background: transparent;
+    border: 1px solid #bb2525;
+    padding:8   px 15px;
+    border-radius:10px;
+    text-transform: capitalize;
+    font-size: 13px;
+}

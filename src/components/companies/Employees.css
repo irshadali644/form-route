@@ -1,0 +1,9 @@
+.wrapper {
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto; 
+    display: flex;
+}
+.wrapper > aside {
+    margin-right: 20px;
+}

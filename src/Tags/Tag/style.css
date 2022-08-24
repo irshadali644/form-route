@@ -1,0 +1,51 @@
+.container {
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.taglist {
+    width: 300px;
+    box-shadow: 0 0 1px rgba(0, 0, 0, .1), 0 2px 4px rgba(0, 0, 0, .02);
+
+}
+
+.taglist h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    color: #aaa;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.taglist ul {
+    list-style: none;
+    padding: 15px;
+    margin: 0;
+}
+
+.taglist ul li {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.datatags {
+    font-size: 14px;
+    color: #1a1a1a;
+
+}
+
+.count-circle {
+    background-color: #16A5E1;
+    font-size: 12px;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 30px;
+    font-weight: 500;
+}

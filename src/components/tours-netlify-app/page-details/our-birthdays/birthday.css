@@ -1,0 +1,47 @@
+.birthday_wrapper {
+    background-color: #f28ab2;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+.birthday_wrapper .card {
+    max-width: 400px;
+    width: 100%;
+    /* margin: 0 auto; */
+    margin-top: 70px;
+    height:max-content;
+    padding: 10px;
+}
+.birthday_wrapper h2{
+    font-size: 22px;
+    text-transform: capitalize;
+    font-weight: 400;
+}
+.img_thumnails {
+    width: 75px;
+    height: 75px;
+    border-radius: 100%;
+    display:inline-block;
+    margin-right: 20px;
+}
+.img_thumnails img {
+    width: 100%;
+    border-radius: 50%;
+    height: 100%;
+
+}
+.clearall_btn {
+    color: #fff;
+    display: block;
+    width: 100%;
+    border-color: transparent;
+    background: #f28ab2;
+    margin: 2rem auto 0;
+    text-transform: capitalize;
+    font-size: 1.2rem;
+    padding: 0.5rem 0;
+    letter-spacing: .1rem;
+    border-radius: 0.25rem;
+    outline: 1px solid rgba(242,138,178,.8);
+    cursor: pointer;
+}
